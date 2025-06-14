@@ -1,0 +1,18 @@
+---
+title: "Quarto trabajo 3"
+author: "Astorga, Hermosilla y Pavez"
+format: html
+editor: visual
+---
+
+## 
+
+Los resultados que se muestran en los modelos de regresión lineal apuntan a una conclusión clara: la confianza en las instituciones del Estado no está distribuida de forma pareja entre todos los sectores sociales. Las variables que usamos estatus subjetivo, sexo e ingresos dan cuenta de cómo las personas construyen su relación con instituciones como Carabineros, el Gobierno y el Poder Judicial, y de cómo esa relación se ve atravesada por la posición social, la experiencia de género y las condiciones materiales de vida.
+
+Uno de los factores más importantes que aparecen en los tres modelos es el estatus subjetivo. Esta variable, que mide cómo una persona percibe su posición en la sociedad, tiene un efecto positivo y significativo en todos los casos: mientras más alto alguien se percibe en la escala social, más tiende a confiar en las instituciones. Esto se puede entender porque quienes sienten que están “mejor ubicados” en la sociedad probablemente tengan experiencias más favorables con las instituciones, o bien tiendan a validar el sistema que, de alguna forma, ha funcionado para ellos. También puede relacionarse con cómo las personas justifican el orden social y su lugar en él.
+
+Por otro lado, el sexo muestra un patrón preocupante. Ser mujer está asociado con menos confianza institucional. Este efecto negativo y significativo se repite en los tres modelos, lo que sugiere que hay una desconfianza generalizada entre las mujeres hacia las instituciones. Esto puede tener múltiples explicaciones: desde experiencias de discriminación o maltrato en espacios como comisarías o tribunales, hasta una falta de representación o respuesta efectiva frente a problemáticas de género. No es solo una percepción individual, sino una vivencia social compartida. Las mujeres, muchas veces, no sienten que las instituciones estén realmente hechas para protegerlas o escucharlas, y eso se refleja en los datos.
+
+En cuanto a los ingresos, también hay una relación positiva con la confianza institucional, aunque más moderada que en el caso del estatus subjetivo. Esto confirma que las condiciones materiales siguen influyendo, pero que no son lo único que importa. De hecho, podríamos decir que la percepción de posición social (estatus subjetivo) tiene un efecto más fuerte que el ingreso real, lo que abre la puerta a pensar en cómo las narrativas personales y simbólicas sobre el éxito y el mérito también impactan en la forma en que las personas se relacionan con el Estado.
+
+En resumen, los datos muestran que la confianza institucional está lejos de ser neutra o universal. Hay sectores de la población especialmente mujeres y personas con bajo estatus percibido que confían menos, y no por casualidad. Esto refleja desigualdades históricas y experiencias concretas que las instituciones no han sabido (o querido) abordar. Si realmente se busca fortalecer la legitimidad del sistema, no basta con campañas de confianza o cambios superficiales. Se requiere una transformación más profunda, que considere las desigualdades de género, clase y estatus, y que se traduzca en un trato más justo y equitativo para toda la población.
