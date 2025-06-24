@@ -1,0 +1,58 @@
+---
+title: "Desigualdad económica y confianza institucional en Chile (2022)"
+author: "Astorga, Hermosilla y Pavez"
+format:
+  revealjs: 
+    theme: sky
+editor: visual
+---
+
+## Introducción
+
+Hoy presentamos un análisis crítico sobre un tema que ha marcado la realidad chilena en los últimos años: la relación entre desigualdad económica y confianza en las instituciones públicas. Base de datos ELSOC (Estudio Longitudinal de Chile), específicamente la ola 2022, la que tiene como objetivo evaluar qué piensa la población chilena acerca de temáticas como la desigualdad, la pobreza, la política, etc. Utilizamos específicamente las variables sexo, ingresos, confianza en el gobierno, confianza en los Carabineros , confianza en el poder judicial.
+
+## Pregunta a los datos
+
+¿Cómo el ingreso afecta la percepción de Carabineros, el Gobierno y el Poder Judicial?
+
+## Hipotesís
+
+A mayor nivel de ingresos, mayor confianza en las instituciones públicas (Carabineros, Gobierno y Poder Judicial)
+
+## ¿Por qué ocurre esto?
+Según los autores: 
+
+- Atria (2013) en "La constitución tramposa" 
+
+- Palet (2017) en "Desiguales" 
+
+- Rothstein & Stolle (2008) en "El status y el capital social"
+
+
+## Datos:
+
+ELSOC, ola 2022 Ola 2022: tiene 2.730 observaciones y 776 variables - Luego de eliminar casos perdidos y NA nos quedamos con 1.510 casos y 5 variables (las mencionadas anteriormente) - La variable ingresos era la que tenía más NA 1.214 específicamente, los que fueron eliminados de la base de datos. Los ingresos fueron recodificados en 5 categorías; muy bajo, bajo, medio, medio alto
+
+## Método:
+
+Matrices de correlación para ver la relación entre variables Creación de gráficos (de dispersión y de barra) Alfa de Cronbach para ver si las relaciones son significativas a nivel estadístico
+
+## Resultados:
+
+Relación significativa: Asociación entre ingresos y confianza (χ² = 27.715; *p* = 0.000), aunque débil (V de Cramer = 0.109). Ejemplo: Solo el 9.4% de los estratos altos confía "mucho" en Carabineros, pero es proporcionalmente mayor que en estratos bajos (16.9% declara "nada").Correlaciones clave: Confianza en Gobierno y Poder Judicial están moderadamente correlacionadas (*r* = 0.50), sugiriendo una percepción interdependiente. Carabineros aparece aislado: sin correlación con otras instituciones, reflejando desconfianza transversal.
+
+
+## Conclusiones
+
+La desigualdad económica estratifica la confianza: las instituciones son percibidas como más legítimas por quienes tienen mayores ingresos. Implicaciones: La erosión de la confianza en sectores vulnerables amenaza la cohesión social y la estabilidad democrática. Limitaciones: La confianza es multifactorial (ej. género, experiencias locales), pero el ingreso es un predictor relevante.
+
+
+## Muchas gracias
+
+## Bibliografía
+
+Atria, F. (2013). La constitución tramposa. LOM Ediciones.
+
+Palet, A. (2017). Desiguales: apuntes de una ciudad dividida. Editorial Hueders.
+
+Rothstein, B., & Stolle, D. (2008). The state and social capital: An institutional theory of generalized trust. Comparative Politics, 40(4), 441–459.
